@@ -1,0 +1,70 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    min-height: 800px;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_England.svg');
+    background-color: #000000;
+    background-size: cover;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    position: relative;
+}
+h1{
+  color:orange;
+  text-align:left;
+  text-decoration:underline;
+  font-family:Times New Roman;
+  font-size:33px;
+}
+p{
+  Color:green;
+  text-align:left;
+  font-size:25px;
+  font-family:Times New Roman;
+}
+div { text-align: center;}
+.campoDeEscrita{
+  border: 3px solid black;
+  width: 270px;
+  height: 40px;
+  padding: 5px 15px;
+  border: 3px solid;
+  background-color: white;
+  font-size: 20px;
+  color: black;
+  position: absolute;
+  top: 51%;
+  left: 49%;
+  margin-top: -55px;
+  margin-left: -315px; 
+}
+button{
+  width: 115px;
+  height: 40px;
+  padding: 5px;
+  border: 3px solid;
+  background-color: orange;
+  font-size: 20px;
+  color: white;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 260px;
+  cursor:pointer;
+  text-align:center;
+}
+h2 {
+  font-family:Times New Roman;
+  text-align: center;
+  width: 90px;
+  height: 40px;
+  padding: 5px 15px;
+  border: 3px solid;
+  background-color: white;
+  font-size: 20px;
+  color: black;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -60px;
+  margin-left: 58px;
+}
