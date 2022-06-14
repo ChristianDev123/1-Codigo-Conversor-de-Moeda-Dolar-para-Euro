@@ -10,6 +10,8 @@ Primeiro app desenvolvido por mim. Projeto desenvolvido durante Imersao Dev Alur
 
 ## Como instalar localmente:
 
+No CMD do Windows ou no Bash do Linux Siga os Seguintes Passos:
+
 ```cmd
     git clone https://github.com/ChristianDev123/1-Codigo-Conversor-de-Moeda-Dolar-para-Euro.git
 ```
